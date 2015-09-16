@@ -1,4 +1,4 @@
 {
-    "name": "mfarajewicz/ehttpclient",
+    "name": "mfarajewicz/yiiextensions",
     "description": "Extension for performing http requestes created for Yii framework by Antonio Ramirez. This is only fork of his work. See original repo: https://github.com/tonydspaniard/Yii-extensions"
 }
